@@ -12,6 +12,7 @@ void setup()
   pinMode(buzzer, OUTPUT);
   pinMode(temp ,INPUT);
   pinMode(ldr, INPUT);
+  Serial.begin(9600);
 }
 
 void loop()
