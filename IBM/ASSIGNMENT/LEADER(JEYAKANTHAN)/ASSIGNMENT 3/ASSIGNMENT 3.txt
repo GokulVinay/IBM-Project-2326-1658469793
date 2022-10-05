@@ -29,3 +29,6 @@ While True:
      lights.red.on()
      sleep(1)
      lights.off()
+     
+                                                            ↘  STUDENT NAME: ↙
+                                                             → JEYAKANTHAN M
